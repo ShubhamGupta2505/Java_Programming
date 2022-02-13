@@ -174,7 +174,7 @@ public class Petrol_Pump1 {
 			break;
 		
 		default :
-			System.out.println("Invalid choice !!!!");
+			System.out.println("Invalid choice");
 		}
 		
 
